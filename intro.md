@@ -23,4 +23,10 @@ std is a class which belongs to `<iostream>`. It is a prefix usually attached to
 
 The code `std::cout << "Hello " << "World!";` will send “Hello” to `cout` then “World!”.
 
+## What is `std::endl`
+`endl` is a stream property that sends an end line character to stream output. `endl` is synonymous to `\n` escape character. Both can be used interchangeably. 
+
+### Example
+The code `std::cout << "Hello World\n";` will output the same thing as `std::cout << "Hello World" << std::endl;`
+
 
