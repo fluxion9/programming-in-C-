@@ -11,6 +11,7 @@ Main is the function the computer looks for to execute programs. That is, the co
 ` main() { `
 	
 `	//only instructions here will be executed `
+
 `} `
 
 Any program written outside main() is syntax error and will not run. Except for preprocessors and object definitions.
