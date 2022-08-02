@@ -1,12 +1,12 @@
 # Comparing Two Numbers Using Relational Operators
 
 The basics of decision making is using if statements. Which allows a program to make a decision based on the truth of falsity of some conditions. The Relational operators used in this program are `Binary Operators`. These operators need just two arguments and will give a true or false depending on the comparison. These Operators include:
-+ `==` >For Equality
-+ `!=` >For InEqualiy
-+ `<` >For Greater than
-+ `>` >For Less than
-+ `<=` >For Less than or Equal to
-+ `>=` >For Greater than or Equal to
++ `==` — For Equality
++ `!=` — For InEqualiy
++ `<` — For Greater than
++ `>` — For Less than
++ `<=` — For Less than or Equal to
++ `>=` — For Greater than or Equal to
 
 When these operators are placed between two numbers they return a true or false depending on how the LHS relates with RHS.
 
