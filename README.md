@@ -12,9 +12,9 @@ For each `.cpp` file, there is an explaination in corresponding `.md`.
   + [`nostd.cpp`](/Basics/nostd.cpp) — [`nostd.md`](/Basics/nostd.md)
   + [`addingTwoIntegers.cpp`](/Basics/addingTwoIntegers.cpp) — [`addingTwoIntegers.md`](/Basics/addingTwoIntegers.md)
 + Decision Making: Equality and Relational Operators
-  + [`comparator.cpp`](/Decision\ Making:\ Equality\ and\ Relational\ Operators/comparator.cpp) — [`comparator.md`](/Decision\ Making:\ Equality\ and\ Relational\ Operators/comparator.md)
+  + [`comparator.cpp`](/Decision+Making:+Equality+and+Relational+Operators/comparator.cpp) — [`comparator.md`](/Decision+Making:+Equality+and+Relational+Operators/comparator.md)
 
-  + [`openAndClosedIntervals`](/Decision\ Making:\ Equality\ and\ Relational\ Operators/openAndClosedIntervals.cpp) — [`openAndClosedIntervals.md`](/Decision\ Making:\ Equality\ and\ Relational\ Operators/openAndClosedIntervals.md)
+  + [`openAndClosedIntervals`](/Decision+Making:+Equality+and+Relational+Operators/openAndClosedIntervals.cpp) — [`openAndClosedIntervals.md`](/Decision+Making:+Equality+and+Relational+Operators/openAndClosedIntervals.md)
 
 
 ## Recommended Compilers
