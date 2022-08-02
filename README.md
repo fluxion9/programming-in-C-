@@ -13,6 +13,7 @@ For each `.cpp` file, there is an explaination in corresponding `.md`.
   + `addingTwoIntegers.cpp` — `addingTwoIntegers.md`
 + Decision Making: Equality and Relational Operators
   + `comparator.cpp` — `comparator.md`
+  + `openAndClosedIntervals` — `openAndClosedIntervals.md`
 
 
 ## Recommended Compilers
