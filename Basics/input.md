@@ -4,6 +4,6 @@ When the computer runs a line of code with `std::cin`, it will wait for the user
 This symbol is pointing towards a variable or storage location in the computer. In `input.cpp`, the variable used is of integer type called `age` and declared in line 7. Therefore `std::cin` points to `age` as in `std::cin >> age`
 
 ## Prompts
-To prompt a user, we'll have to use `std::cout` before calling `std::cin` so that the user will know that the program is requiring user input as shown in line 8 `std::cout << "What is your age? \n";`
+To prompt a user, we'll have to use `std::cout` before calling `std::cin` so that the user will know that the program is requiring user input as shown in line 8 `std::cout << "What is your age?";`
 
 
