@@ -7,7 +7,7 @@ For each `.cpp` file, there is an explaination in corresponding `.md`.
 ## File Mappings
 
 + Basics
-  + `welcome.cpp` — `intro.md`
+  + [`welcome.cpp`](/Basics/welcome.cpp) — `intro.md`
   + `input.cpp` — `input.md`
   + `nostd.cpp` — `nostd.md`
   + `addingTwoIntegers.cpp` — `addingTwoIntegers.md`
