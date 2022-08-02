@@ -12,7 +12,7 @@ When these operators are placed between two numbers they return a true or false 
 
 ### Example
 + ` 2 < 3 ` checks if 2 is less than 3 which will return true
-+ ` 3 == ` checks if 3 is equal to 3 which will return true
++ ` 3 == 3` checks if 3 is equal to 3 which will return true
 
 if such expression are placed in if conditions like ` if (2 < 3) `, the binary relation when evaluted will yield true therefore the condition will yield to ` if (true)` then the statement under the condition will be executed. __Note:__ The task is executed only when the resulting expression is valid or true. if it is not true, the computer will skip or ignore.
 
