@@ -14,3 +14,6 @@ For each `.cpp` file, there is an explaination in corresponding `.md`.
 + Decision Making: Equality and Relational Operators
   + `comparator.cpp` — `comparator.md`
 
+
+## Recommended Compilers
++ GNU g++ compiler
